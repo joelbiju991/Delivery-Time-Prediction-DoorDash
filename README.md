@@ -4,7 +4,7 @@ A beginner-friendly regression project where I explored food-delivery data, comp
 
 > This is an educational project based on a DoorDash-style business scenario. It is not an official DoorDash project and is not affiliated with DoorDash.
 
-## Project dashboard preview
+## Project Dashboard Preview
 
 ![DoorDash delivery time prediction dashboard preview](Overview%20of%20Delivery%20Time%20Prediction-DoorDash.png)
 
